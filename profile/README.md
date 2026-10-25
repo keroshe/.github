@@ -1,4 +1,4 @@
-## Keroshe — Mashhad Code
+## Keroshe
 
 **Web development studio** from Mashhad, Iran — your technical companion for
 building, maintaining and growing your site. Since 2015.
